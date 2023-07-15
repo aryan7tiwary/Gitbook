@@ -1,9 +1,23 @@
-# 😀 Index
+# Context
 
-{% content-ref url="http://localhost:5000/s/VMCGFvn4IsHYvwV9VcfI/" %}
-[CompTIA Security+](http://localhost:5000/s/VMCGFvn4IsHYvwV9VcfI/)
+
+
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
 {% endcontent-ref %}
 
-{% content-ref url="http://localhost:5000/s/yWhJd5U80V5i70hn5NaA/" %}
-[Cheatsheet](http://localhost:5000/s/yWhJd5U80V5i70hn5NaA/)
+{% content-ref url="architecture-and-design.md" %}
+[architecture-and-design.md](architecture-and-design.md)
+{% endcontent-ref %}
+
+{% content-ref url="implementation.md" %}
+[implementation.md](implementation.md)
+{% endcontent-ref %}
+
+{% content-ref url="operations-and-incident-response.md" %}
+[operations-and-incident-response.md](operations-and-incident-response.md)
+{% endcontent-ref %}
+
+{% content-ref url="governance-risks-and-compliance.md" %}
+[governance-risks-and-compliance.md](governance-risks-and-compliance.md)
 {% endcontent-ref %}
