@@ -1,14 +1,23 @@
-# 😀 Index
+# Context
 
-{% content-ref url="https://app.gitbook.com/o/9gFkdHX2EdvVhqHsmRfM/s/VMCGFvn4IsHYvwV9VcfI/" %}
-[CompTIA Security+](https://app.gitbook.com/o/9gFkdHX2EdvVhqHsmRfM/s/VMCGFvn4IsHYvwV9VcfI/)
+A big thank you to [Professor Messer](https://www.professormesser.com/) for his invaluable notes and videos that have greatly enhanced my learning experience. His clear explanations and engaging teaching style have made complex subjects more accessible and inspired me to delve deeper into the topics he covers. I am grateful for the wealth of knowledge he shares, making education an enriching journey!
+
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/o/9gFkdHX2EdvVhqHsmRfM/s/yWhJd5U80V5i70hn5NaA/" %}
-[Cheatsheet](https://app.gitbook.com/o/9gFkdHX2EdvVhqHsmRfM/s/yWhJd5U80V5i70hn5NaA/)
+{% content-ref url="architecture-and-design.md" %}
+[architecture-and-design.md](architecture-and-design.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/o/9gFkdHX2EdvVhqHsmRfM/s/a36SBM7s7w9GiAZRX771/" %}
-[Cybersecurity Concepts](https://app.gitbook.com/o/9gFkdHX2EdvVhqHsmRfM/s/a36SBM7s7w9GiAZRX771/)
+{% content-ref url="implementation.md" %}
+[implementation.md](implementation.md)
 {% endcontent-ref %}
 
+{% content-ref url="operations-and-incident-response.md" %}
+[operations-and-incident-response.md](operations-and-incident-response.md)
+{% endcontent-ref %}
+
+{% content-ref url="governance-risks-and-compliance.md" %}
+[governance-risks-and-compliance.md](governance-risks-and-compliance.md)
+{% endcontent-ref %}
