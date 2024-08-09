@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVjaG5vbG9neXxlbnwwfHx8fDE3MjMyMzQxNDl8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Index
 
 {% content-ref url="https://app.gitbook.com/o/9gFkdHX2EdvVhqHsmRfM/s/VMCGFvn4IsHYvwV9VcfI/" %}
